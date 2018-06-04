@@ -1,5 +1,5 @@
 {
-  "name": "shoppingcart_ang5",
+  "name": "ShoppingCart",
   "version": "1.0.0",
   "description": "Test Example using Angular 5",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
-    "build-gh": "ng build --prod --base-href \"/shoppingCart_Ang5/\"",
+    "build-gh": "ng build --prod --base-href \"/ShoppingCart/\"",
     "deploy-to-ghpages": "npm run build-gh && ngh",
     "test": "ng test",
     "lint": "ng lint",
